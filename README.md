@@ -21,8 +21,8 @@
 - Excel
 - SPSS
 
-## 🌐 Conecta conmigo
+## 🌐 Connect with me
 
 - [LinkedIN](https://www.linkedin.com/in/víctor-toscano-duran)
-- [Email](mailto:victortoscano21@gmail.com)
+- vtoscano@us.es
 - [Web](https://victosdur77.github.io/)
