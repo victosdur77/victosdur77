@@ -25,4 +25,4 @@
 
 - [LinkedIN](https://www.linkedin.com/in/víctor-toscano-duran)
 - [Email](mailto:victortoscano21@gmail.com)
-- [Web](https://github.com/victosdur77/victosdur77.github.io)
+- [Web](https://victosdur77.github.io/)
