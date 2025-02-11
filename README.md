@@ -7,7 +7,7 @@
 
 
 ## 🧠 Research areas of interest
-- Machine Learning y Deep Learning
+- Machine Learning and Deep Learning
 - Data analysis and visualization
 - Topological Data Analysis (TDA)
 - Explainable AI (XAI)
